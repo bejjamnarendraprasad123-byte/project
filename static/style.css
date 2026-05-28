@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background:#f3e8ff;
+    padding-top:50px;
+}
+
+h1{
+    color:purple;
+    font-size:40px;
+}
+
+h2{
+    color:#444;
+}
+
+input{
+    padding:12px;
+    width:250px;
+    border-radius:8px;
+    border:1px solid gray;
+}
+
+button{
+    padding:12px 20px;
+    background:purple;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+button:hover{
+    background:darkviolet;
+}
+
+img{
+    border-radius:15px;
+    margin-bottom:20px;
+}
